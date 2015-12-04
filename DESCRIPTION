@@ -1,0 +1,11 @@
+Package: benstools
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Ben", "Maher", email = "ben@benjaminmaher.com", role = c("aut", "cre"))
+Description: Common Functions I've written.
+Depends: 
+    R (>= 3.2.2)
+License: GPL
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: RODBC
